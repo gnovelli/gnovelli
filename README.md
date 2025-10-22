@@ -18,7 +18,7 @@ OpenAI • Claude • LangChain
 
 ## 🌱 Approccio
 
-Tendo a scomporre problemi complessi, prototipare rapidamente e iterare. Mi piace imparare tecnologie nuove e capire come i pezzi si collegano tra loro.
+Tendo a scomporre problemi complessi, prototipare rapidamente e iterare. Mi piace imparare tecnologie nuove e capire come i pezzi si collegano tra loro
 
 ## 📫 Contatti
 
