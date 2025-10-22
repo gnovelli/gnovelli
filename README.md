@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Ciao, sono Giovanni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# 👋 Buongiorno, sono Giovanni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### 💻 Developer | 🤖 AI Enthusiast | 📊 Data Lover
 
@@ -67,11 +67,11 @@ Mi piace affrontare problemi complessi dividendoli in parti gestibili, creare ra
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnovelli&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=gnovelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
