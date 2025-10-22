@@ -45,10 +45,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🤖 AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9A6B?style=for-the-badge&logo=anthropic&logoColor=white)
-
 ---
 
 ## 🎯 Tech Interests
@@ -116,10 +112,6 @@ I enjoy tackling complex problems by breaking them into manageable pieces, rapid
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🤖 AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9A6B?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -189,10 +181,6 @@ Mi piace affrontare problemi complessi dividendoli in parti gestibili, creare ra
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🤖 AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9A6B?style=for-the-badge&logo=anthropic&logoColor=white)
-
 ---
 
 ## 🎯 Intérêts Technologiques
@@ -261,10 +249,6 @@ J'aime aborder les problèmes complexes en les décomposant en éléments gérab
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🤖 AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9A6B?style=for-the-badge&logo=anthropic&logoColor=white)
-
 ---
 
 ## 🎯 Technische Interessen
@@ -332,10 +316,6 @@ Ich mag es, komplexe Probleme anzugehen, indem ich sie in handhabbare Teile zerl
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🤖 בינה מלאכותית ו-LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9A6B?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
