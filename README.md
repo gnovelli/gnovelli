@@ -73,20 +73,6 @@ I enjoy tackling complex problems by breaking them into manageable pieces, rapid
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=gnovelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Connect with me!
@@ -156,20 +142,6 @@ interessi = {
 > 💡 **Scomponi. Prototipa. Itera.**
 
 Mi piace affrontare problemi complessi dividendoli in parti gestibili, creare rapidamente prototipi funzionanti e migliorare iterativamente. Sono sempre curioso di imparare nuove tecnologie e di capire come i diversi componenti di un sistema si integrano tra loro.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=gnovelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
