@@ -50,6 +50,4 @@
 
 *Break down, Prototype, Iterate*
 
-<sub>I enjoy tackling complex problems by decomposing them into manageable pieces,<br>rapidly creating functional prototypes, and iteratively improving</sub>
-
 </div>
