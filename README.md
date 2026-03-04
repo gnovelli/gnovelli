@@ -1,288 +1,72 @@
 <div align="center">
 
-# 👋 Hi, I'm Giovanni! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="assets/logo.png" width="80" alt="GN" />
 
-### 💻 Developer | 🤖 AI Enthusiast | 📊 Data Lover
+<br>
 
-[![Website](https://img.shields.io/badge/Website-novelli.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.novelli.me)
-[![GitHub followers](https://img.shields.io/github/followers/gnovelli?style=for-the-badge&logo=github)](https://github.com/gnovelli)
+<img src="assets/header.svg" alt="Giovanni Novelli - PhD in Computer Science - Catania, Sicilia" />
 
-<br/>
+<br>
 
-### 🌍 Language / Lingua / Langue
+<img src="assets/divider.svg" width="360" alt="" />
 
-[![English](https://img.shields.io/badge/🇬🇧_English-red?style=for-the-badge)](#-english-version) [![Italian](https://img.shields.io/badge/🇮🇹_Italiano-blue?style=for-the-badge)](#-versione-italiana) [![French](https://img.shields.io/badge/🇫🇷_Français-blue?style=for-the-badge)](#-version-française)
+<br>
 
-</div>
+[![Email](https://img.shields.io/badge/giovanni%40novelli.me-8a7260?style=flat-square&logo=minutemailer&logoColor=white)](mailto:giovanni@novelli.me)&ensp;
+[![Website](https://img.shields.io/badge/www.novelli.me-8a7260?style=flat-square&logo=safari&logoColor=white)](https://www.novelli.me)&ensp;
+[![GitHub](https://img.shields.io/badge/gnovelli-8a7260?style=flat-square&logo=github&logoColor=white)](https://github.com/gnovelli)&ensp;
+[![LinkedIn](https://img.shields.io/badge/gnovelli-8a7260?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnovelli)
 
----
+<br>
 
-<div id="-english-version"></div>
+<img src="assets/divider.svg" width="360" alt="" />
 
-## 🇬🇧 English Version
+<br>
 
-## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-d8d0c8?style=flat-square&logo=python&logoColor=6b6560)
+![JavaScript](https://img.shields.io/badge/JavaScript-d8d0c8?style=flat-square&logo=javascript&logoColor=6b6560)
+![TypeScript](https://img.shields.io/badge/TypeScript-d8d0c8?style=flat-square&logo=typescript&logoColor=6b6560)
+![Bash](https://img.shields.io/badge/Bash-d8d0c8?style=flat-square&logo=gnubash&logoColor=6b6560)
+![SQL](https://img.shields.io/badge/SQL-d8d0c8?style=flat-square&logo=postgresql&logoColor=6b6560)
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-d8d0c8?style=flat-square&logo=react&logoColor=6b6560)
+![FastAPI](https://img.shields.io/badge/FastAPI-d8d0c8?style=flat-square&logo=fastapi&logoColor=6b6560)
+![Flask](https://img.shields.io/badge/Flask-d8d0c8?style=flat-square&logo=flask&logoColor=6b6560)
+![Node.js](https://img.shields.io/badge/Node.js-d8d0c8?style=flat-square&logo=nodedotjs&logoColor=6b6560)
+![Pandas](https://img.shields.io/badge/Pandas-d8d0c8?style=flat-square&logo=pandas&logoColor=6b6560)
+![LangChain](https://img.shields.io/badge/LangChain-d8d0c8?style=flat-square&logo=chainlink&logoColor=6b6560)
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-d8d0c8?style=flat-square&logo=postgresql&logoColor=6b6560)
+![Docker](https://img.shields.io/badge/Docker-d8d0c8?style=flat-square&logo=docker&logoColor=6b6560)
+![Linux](https://img.shields.io/badge/Linux-d8d0c8?style=flat-square&logo=linux&logoColor=6b6560)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-d8d0c8?style=flat-square&logo=githubactions&logoColor=6b6560)
+![SPARQL](https://img.shields.io/badge/SPARQL-d8d0c8?style=flat-square&logo=graphql&logoColor=6b6560)
 
-### 🗄️ Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<br>
 
----
+<img src="assets/divider.svg" width="360" alt="" />
 
-## 🎯 Tech Interests
+<br>
 
-```python
-interests = {
-    "🤖 AI & Automation": ["Autonomous agents", "Workflow automation"],
-    "📊 Data Quality": ["Open Data", "Ontologies", "RDF/SPARQL"],
-    "🏠 Self-Hosted": ["Privacy-first solutions", "Infrastructure as Code"],
-    "📈 Visualization": ["Dashboards", "Data storytelling"],
-    "🎨 Other": ["Mathematics", "Music", "Creative connections"]
-}
-```
+*Break down. Prototype. Iterate.*
 
----
+<sub>I enjoy tackling complex problems by decomposing them into manageable pieces,<br>rapidly creating functional prototypes, and iteratively improving.</sub>
 
-## 🌱 My Approach
+<br><br>
 
-> 💡 **Break down. Prototype. Iterate.**
+<img src="assets/divider.svg" width="360" alt="" />
 
-I enjoy tackling complex problems by breaking them into manageable pieces, rapidly creating functional prototypes, and iteratively improving. I'm always curious to learn new technologies and understand how different system components integrate with each other.
+<br>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&hide_border=true&title_color=8a7260&text_color=6b6560&icon_color=c4a882&bg_color=f8f6f1&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&hide_border=true&title_color=8a7260&text_color=6b6560&icon_color=c4a882&bg_color=f8f6f1&langs_count=8" alt="Top Languages" height="170"/>
 
-## 📊 GitHub Stats
+<br>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gnovelli&hide_border=true&background=f8f6f1&ring=c4a882&fire=8a7260&currStreakLabel=1a1a1a&sideLabels=6b6560&currStreakNum=1a1a1a&sideNums=8a7260&dates=d8d0c8" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gnovelli&color=8a7260&style=flat-square&label=visitors)
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gnovelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnovelli&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Connect with me!
-
-[![Website](https://img.shields.io/badge/🌐_novelli.me-Visit-blue?style=for-the-badge)](https://www.novelli.me)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=gnovelli&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
----
----
-
-<div id="-versione-italiana"></div>
-
-## 🇮🇹 Versione Italiana
-
-## 🛠️ Tech Stack
-
-### 💻 Linguaggi
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🚀 Framework & Librerie
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### 🗄️ Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-## 🎯 Interessi Tecnologici
-
-```python
-interessi = {
-    "🤖 AI & Automation": ["Agenti autonomi", "Workflow automation"],
-    "📊 Data Quality": ["Open Data", "Ontologie", "RDF/SPARQL"],
-    "🏠 Self-Hosted": ["Soluzioni privacy-first", "Infrastructure as Code"],
-    "📈 Visualization": ["Dashboard", "Data storytelling"],
-    "🎨 Altro": ["Matematica", "Musica", "Connessioni creative"]
-}
-```
-
----
-
-## 🌱 Il Mio Approccio
-
-> 💡 **Scomponi. Prototipa. Itera.**
-
-Mi piace affrontare problemi complessi dividendoli in parti gestibili, creare rapidamente prototipi funzionanti e migliorare iterativamente. Sono sempre curioso di imparare nuove tecnologie e di capire come i diversi componenti di un sistema si integrano tra loro.
-
----
-
-## 📊 Statistiche GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiche GitHub" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguaggi Principali" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gnovelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnovelli&theme=tokyo-night&hide_border=true&area=true" alt="Grafico Contributi" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Connettiti con me!
-
-[![Website](https://img.shields.io/badge/🌐_novelli.me-Visit-blue?style=for-the-badge)](https://www.novelli.me)
-
----
-
-[![Back to top](https://img.shields.io/badge/⬆️_Back_to_top-blue?style=for-the-badge)](#)
-
-</div>
-
----
----
----
-
-<div id="-version-française"></div>
-
-## 🇫🇷 Version Française
-
-## 🛠️ Stack Technique
-
-### 💻 Langages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🚀 Frameworks & Bibliothèques
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### 🗄️ Bases de données & Outils
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-## 🎯 Intérêts Technologiques
-
-```python
-interets = {
-    "🤖 IA & Automation": ["Agents autonomes", "Automatisation des flux"],
-    "📊 Qualité des Données": ["Données ouvertes", "Ontologies", "RDF/SPARQL"],
-    "🏠 Auto-hébergé": ["Solutions privacy-first", "Infrastructure as Code"],
-    "📈 Visualisation": ["Tableaux de bord", "Data storytelling"],
-    "🎨 Autre": ["Mathématiques", "Musique", "Connexions créatives"]
-}
-```
-
----
-
-## 🌱 Mon Approche
-
-> 💡 **Décomposer. Prototyper. Itérer.**
-
-J'aime aborder les problèmes complexes en les décomposant en éléments gérables, créer rapidement des prototypes fonctionnels et améliorer de manière itérative. Je suis toujours curieux d'apprendre de nouvelles technologies et de comprendre comment les différents composants d'un système s'intègrent entre eux.
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages Principaux" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gnovelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnovelli&theme=tokyo-night&hide_border=true&area=true" alt="Graphique de Contributions" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Connectez-vous avec moi !
-
-[![Website](https://img.shields.io/badge/🌐_novelli.me-Visit-blue?style=for-the-badge)](https://www.novelli.me)
-
----
-
-[![Back to top](https://img.shields.io/badge/⬆️_Retour_en_haut-blue?style=for-the-badge)](#)
-
-</div>
-
