@@ -48,25 +48,8 @@
 
 <br>
 
-*Break down. Prototype. Iterate.*
+*Break down, Prototype, Iterate*
 
-<sub>I enjoy tackling complex problems by decomposing them into manageable pieces,<br>rapidly creating functional prototypes, and iteratively improving.</sub>
-
-<br><br>
-
-<img src="assets/divider.svg" width="360" alt="" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=gnovelli&show_icons=true&hide_border=true&title_color=8a7260&text_color=6b6560&icon_color=c4a882&bg_color=f8f6f1&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovelli&layout=compact&hide_border=true&title_color=8a7260&text_color=6b6560&icon_color=c4a882&bg_color=f8f6f1&langs_count=8" alt="Top Languages" height="170"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gnovelli&hide_border=true&background=f8f6f1&ring=c4a882&fire=8a7260&currStreakLabel=1a1a1a&sideLabels=6b6560&currStreakNum=1a1a1a&sideNums=8a7260&dates=d8d0c8" alt="GitHub Streak" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=gnovelli&color=8a7260&style=flat-square&label=visitors)
+<sub>I enjoy tackling complex problems by decomposing them into manageable pieces,<br>rapidly creating functional prototypes, and iteratively improving</sub>
 
 </div>
