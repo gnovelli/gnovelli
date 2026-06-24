@@ -1,15 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="110" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="56" fill="none">
   <style>
     .name { fill: #1a1a1a; }
-    .title { fill: #6b6560; }
-    .location { fill: #8a7260; }
     @media (prefers-color-scheme: dark) {
       .name { fill: #f8f6f1; }
-      .title { fill: #d8d0c8; }
-      .location { fill: #c4a882; }
     }
   </style>
-  <text x="220" y="40" text-anchor="middle" class="name" font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="34" letter-spacing="0.5">Giovanni Novelli</text>
-  <text x="220" y="70" text-anchor="middle" class="title" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="3.5">PHD IN COMPUTER SCIENCE</text>
-  <text x="220" y="95" text-anchor="middle" class="location" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.2">Catania, Sicilia</text>
+  <text x="220" y="38" text-anchor="middle" class="name" font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="34" letter-spacing="0.5">Giovanni Novelli</text>
 </svg>
